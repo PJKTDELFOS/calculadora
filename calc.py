@@ -158,5 +158,5 @@ result_var.set('resultado')
 tk.Label(root, textvariable=result_var).grid(row=6, column=0, columnspan=2)
 
 
-#segunda versao
+#segunda versao-
 root.mainloop()
